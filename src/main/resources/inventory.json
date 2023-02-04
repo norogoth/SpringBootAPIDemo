@@ -1,0 +1,26 @@
+[
+  {
+    "Id" : 1,
+    "Name" : "XLR Cable - 5 foot",
+    "Type" : "Cable",
+    "Connector" : "XLR",
+    "LengthInFeet" : 5,
+    "Color" : "Black"
+  },
+  {
+  "Id" : 2,
+  "Name" : "XLR Cable - 12 foot",
+  "Type" : "Cable",
+  "Connector" : "XLR",
+  "LengthInFeet" : 12,
+  "Color" : "Black"
+  },
+  {
+    "Id" : 3,
+    "Name" : "Quarter-inch Cable - 5 foot",
+    "Type" : "Quarter-Inch",
+    "Connector" : "Quarter-Inch",
+    "Length" : 5,
+    "Color" : "Black"
+  }
+]
