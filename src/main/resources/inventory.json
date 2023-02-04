@@ -20,7 +20,7 @@
     "Name" : "Quarter-inch Cable - 5 foot",
     "Type" : "Quarter-Inch",
     "Connector" : "Quarter-Inch",
-    "Length" : 5,
+    "LengthInFeet" : 5,
     "Color" : "Black"
   }
 ]
